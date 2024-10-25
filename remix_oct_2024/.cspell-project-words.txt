@@ -1,0 +1,6 @@
+typecheck
+isbot
+tailwindcss
+Pipeable
+segoe
+noto
